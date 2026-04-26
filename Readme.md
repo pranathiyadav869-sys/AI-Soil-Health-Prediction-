@@ -296,13 +296,18 @@ python app.py
 
 ## 📸 Demo
 
-*Add screenshots here*
-
-```id="img1"
-/assets/ui.png
-/assets/results.png
-/assets/graphs.png
-```
+**8model_comparison_table on final_dataset_with_ndvi_weather.csv**
+<img width="2864" height="783" alt="8model_comparison_table" src="https://github.com/user-attachments/assets/c425e146-7595-4b85-a25e-2695587f5581" />
+<img width="2880" height="1600" alt="8model_bar_comparison" src="https://github.com/user-attachments/assets/e55e63c5-71bd-4140-9309-afb4650010ed" />
+<img width="1401" height="1242" alt="8model_radar_chart" src="https://github.com/user-attachments/assets/d526d27b-e6bf-4800-a7eb-476e000d9aff" />
+<img width="2560" height="960" alt="8model_loss_curves" src="https://github.com/user-attachments/assets/1bd3718f-5ec7-4ec4-aa75-89584e4474c2" />
+**Roc curve of Image dataset**
+<img width="960" height="1298" alt="image" src="https://github.com/user-attachments/assets/db9e0599-87a1-43b9-94a5-a884073289cb" />
+**UI**
+<img width="2846" height="1588" alt="Image 2" src="https://github.com/user-attachments/assets/2c03099c-ca1f-468e-9166-46c7fac74d47" />
+<img width="2846" height="1588" alt="Image 3" src="https://github.com/user-attachments/assets/2d35fa5b-18ae-4519-a28e-e142ea3c8883" />
+<img width="2846" height="1588" alt="Image 4" src="https://github.com/user-attachments/assets/5bc59777-abe9-450d-b2ac-90645f3b006b" />
+<img width="2846" height="1588" alt="Image 5" src="https://github.com/user-attachments/assets/43711072-3ee7-4394-a007-561716f49b75" />
 
 ---
 
@@ -317,7 +322,7 @@ python app.py
 
 ## 👩‍💻 Author
 
-**Pranathi**
+**Bandi Pranathi**
 
 ---
 
