@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.csv
+
+# Models
+*.pt
+*.h5
+
+# Colab
+.ipynb_checkpoints/
+
+# System
+.DS_Store

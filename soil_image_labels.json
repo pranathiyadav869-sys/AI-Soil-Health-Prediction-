@@ -1,0 +1,37 @@
+{
+  "soil_types": [
+    "Clay",
+    "Sandy",
+    "Loamy",
+    "Black",
+    "Red",
+    "Alluvial"
+  ],
+  "moisture_labels": [
+    "Dry",
+    "Moist",
+    "Wet"
+  ],
+  "vegetation_labels": [
+    "Low",
+    "Medium",
+    "High"
+  ],
+  "crop_condition_labels": [
+    "Healthy",
+    "Unhealthy"
+  ],
+  "disease_labels": [
+    "Healthy",
+    "Bacterial_Spot",
+    "Early_Blight",
+    "Late_Blight",
+    "Leaf_Mold",
+    "Septoria_Leaf_Spot",
+    "Spider_Mites",
+    "Target_Spot",
+    "Yellow_Leaf_Curl",
+    "Mosaic_Virus",
+    "Powdery_Mildew"
+  ]
+}
