@@ -306,12 +306,14 @@ python app.py
 
 <img width="960" height="1298" alt="image" src="https://github.com/user-attachments/assets/db9e0599-87a1-43b9-94a5-a884073289cb" />
 **UI**
-
+**input**
 <img width="2846" height="1588" alt="Image 2" src="https://github.com/user-attachments/assets/2c03099c-ca1f-468e-9166-46c7fac74d47" />
-
+**outputs**
 <img width="2846" height="1588" alt="Image 3" src="https://github.com/user-attachments/assets/2d35fa5b-18ae-4519-a28e-e142ea3c8883" />
 
+
 <img width="2846" height="1588" alt="Image 4" src="https://github.com/user-attachments/assets/5bc59777-abe9-450d-b2ac-90645f3b006b" />
+
 
 <img width="2846" height="1588" alt="Image 5" src="https://github.com/user-attachments/assets/43711072-3ee7-4394-a007-561716f49b75" />
 
